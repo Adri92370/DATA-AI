@@ -1,1 +1,3 @@
-# Intelligence-artificielle-pour-le-traitement-de-la-donn-e
+# Intelligence-artificielle-pour-le-traitement-de-la-donnee
+
+
