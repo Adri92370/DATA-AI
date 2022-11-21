@@ -31,7 +31,7 @@ Sep 20 15:42:10 kali systemd[662]: Reached target Sockets.
 
 ### **Génération de données et Parsing**
 
-Afin d'avoir un trafic anormalement illégitime, nous avons généré des *nmaps* et des *pings* d'un autre host vers notre machine. Ensuite le script *parsing.ipynb* permet de collecter les logs, de les mettres au meme format avec un timestamp similaire.
+Afin d'avoir un trafic anormalement illégitime, nous avons généré des *nmaps* et des *pings* d'un autre host vers notre machine. Ensuite le script *parsing.ipynb* permet de collecter les logs, de mettre au meme format avec un timestamp similaire.
 
 '<u>' Output exemple:'</u>'  
 
